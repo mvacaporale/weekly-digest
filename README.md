@@ -17,4 +17,14 @@ Every Friday morning an always-on box:
 3. Runs a merge pass that unifies the three track notes into the single issue in [`digests/`](digests/), deduping stories that arrived through more than one source.
 4. Rebuilds this site + feed ([`tools/make_site.py`](tools/make_site.py)) and pushes.
 
-The digests are written for one specific reader — that's the point. Fork the idea, not the taste.
+## A note on using this
+
+This is a **personal project, published for inspiration** — not a template to copy verbatim.
+
+Every selection bar, source list, and voice rule here is calibrated to one specific reader: which X accounts earn a lower bar, which newsletters are worth distilling, what "news I'll care about in five years" means to *me*. Copied as-is, those choices would give you a digest tuned to someone else's taste. The durable ideas are the structure:
+
+- **Written specs as the unit of iteration** — when an issue misses, edit the spec, not the output.
+- **A ruthless, explicit bar per source** — with "empty is a valid result" stated up front, so the system never pads.
+- **Separate judgment passes per source, then one merge pass** — each stage small enough to audit.
+
+Take the skeleton, then spend your effort where I spent mine: writing down what *you* actually want to read.
