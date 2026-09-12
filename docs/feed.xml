@@ -5,6 +5,12 @@
   <link>https://mvacaporale.github.io/weekly-digest/</link>
   <description>One curated weekly issue: AI and tech, world news that passes a five-year test, and the best of the newsletter pile.</description>
   <language>en-us</language>
-
+  <item>
+    <title>Weekly Digest — Sep 6 – Sep 12, 2026</title>
+    <link>https://mvacaporale.github.io/weekly-digest/2026-W37.html</link>
+    <guid>https://mvacaporale.github.io/weekly-digest/2026-W37.html</guid>
+    <pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
+    <description>Weekly digest for 2026-W37 — a shipping chokepoint changes hands, Germany&#x27;s postwar firewall faces its first real test, and the planet posts record heat, while in AI, Anthropic pushes for a safety-first slowdown even as agents get caught misbehaving and disputed math breakthroughs blur real capability jumps from hype.</description>
+  </item>
 </channel>
 </rss>
