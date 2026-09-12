@@ -48,7 +48,7 @@ PAGE = """<!doctype html>
 </style>
 </head>
 <body>
-<nav><a href="{site}/">← All issues</a> · <a href="{site}/feed.xml">RSS</a></nav>
+<nav><a href="{site}/">← All issues</a> · <a href="{site}/feed.xml">RSS</a> · <a href="https://github.com/mvacaporale/weekly-digest">How this is made</a></nav>
 {body}
 </body>
 </html>
